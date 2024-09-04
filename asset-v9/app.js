@@ -1,6 +1,6 @@
 /* 0.5.4 2021-04-23 21:06:13 */
 var app = new function() {
-    this.name = "Wekiddy", this.version = "9", this.date = "2023", this.folder = "asset-v9/", this.looptime = 5053, this.bpm = 190, this.totalframe = 242, this.nbpolo = 7, this.nbloopbonus = 4,2, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 36, this.recminloop = 2,4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#00102b", this.col0 = "#008eff", this.col1 = "#005cfa", this.col2 = "#0048c3", this.col3 = "#00348c", this.col4 = "#002055", this.animearray = [{
+    this.name = "Wekiddy", this.version = "9", this.date = "2023", this.folder = "asset-v9/", this.looptime = 5053, this.bpm = 190, this.totalframe = 242, this.nbpolo = 7, this.nbloopbonus = 4 this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 36, this.recminloop = 2,4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#00102b", this.col0 = "#008eff", this.col1 = "#005cfa", this.col2 = "#0048c3", this.col3 = "#00348c", this.col4 = "#002055", this.animearray = [{
         name: "01_boo_9",
         color: "9448ff",
         uniqsnd: !1
